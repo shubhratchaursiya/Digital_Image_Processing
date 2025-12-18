@@ -79,15 +79,16 @@ Each program generates **visual output images** showing the effect of the applie
 The output images help in **understanding how the image changes before and after processing**.
 
 📌 Output examples may include:
-<img width="491" height="418" alt="output9" src="https://github.com/user-attachments/assets/fda4c983-a910-4564-92a5-94a498219f7a" />
-<img width="413" height="306" alt="output10" src="https://github.com/user-attachments/assets/6af0f226-5710-4440-a431-39a8ed764580" />
+<img width="412" height="306" alt="output7" src="https://github.com/user-attachments/assets/817a600b-989d-4459-962d-5115021504fd" />
+
+<img width="491" height="418" alt="output9" src="https://github.com/user-attachments/assets/bc273e8d-fe3d-4118-b2c2-b467a0f04e75" />
 
 ---
 
 ## 📥 How to Clone the Repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone <https://github.com/shubhratchaursiya/Digital_Image_Processing/>
 ````
 
 After cloning, open the project in the supported environment.
